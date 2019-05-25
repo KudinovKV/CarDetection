@@ -3,4 +3,4 @@
 
 Использовался Python 3.6.
 
-![IDEAL_SMALL.mp4](IDEAL_SMALL.mp4)
+![Example.mp4](Example.mp4)
