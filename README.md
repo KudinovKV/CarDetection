@@ -3,7 +3,7 @@
 
 Использовался Python 3.6.
 
-![Example.mp4](Example.mp4)
+![Example.gif](Example.gif)
 
 Для запуска: 
 
