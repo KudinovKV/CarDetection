@@ -25,3 +25,14 @@
 4. Скачать веса и недостающие параметры (https://dropmefiles.com/WkhpZ).  
 6. Запустить программу : 
 >python main.py --input input\ExampleGPU.mp4 --output output\ExampleGPU.mp4
+
+# Credits
+При реализации использовалась информация из следующих источников :
+
+1. (YunYang1994/tensorflow-yolov3) 
+2. (qqwweee/keras-yolo3)
+3. (eriklindernoren/PyTorch-YOLOv3)
+4. (pjreddie/darknet)
+5. (dmlc/gluon-cv)
+6. (wizyoung/YOLOv3_TensorFlow)
+7. (abewley/sort)
