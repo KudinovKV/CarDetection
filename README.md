@@ -13,4 +13,4 @@
 python main.py --input input\Example.mp4 --output output\Example_CarDetection.mp4 --yolo parameters
 
 # GPU
-![ExampleGPU.gif](ExampleGPU.asf)
+![ExampleGPU.gif](ExampleGPU.gif)
