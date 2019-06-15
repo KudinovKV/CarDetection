@@ -29,10 +29,10 @@
 # Credits
 При реализации использовалась информация из следующих источников :
 
-1. [YunYang1994/tensorflow-yolov3](YunYang1994/tensorflow-yolov3) 
-2. [qqwweee/keras-yolo3](qqwweee/keras-yolo3)
-3. [eriklindernoren/PyTorch-YOLOv3](eriklindernoren/PyTorch-YOLOv3)
-4. [pjreddie/darknet](pjreddie/darknet)
-5. [dmlc/gluon-cv](dmlc/gluon-cv)
-6. [wizyoung/YOLOv3_TensorFlow](wizyoung/YOLOv3_TensorFlow)
-7. [abewley/sort](abewley/sort)
+1. [YunYang1994/tensorflow-yolov3](https://github.com/YunYang1994/tensorflow-yolov3) 
+2. [qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3)
+3. [eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3)
+4. [pjreddie/darknet](https://github.com/pjreddie/darknet)
+5. [dmlc/gluon-cv](https://github.com/dmlc/gluon-cv)
+6. [wizyoung/YOLOv3_TensorFlow](https://github.com/wizyoung/YOLOv3_TensorFlow)
+7. [abewley/sort](https://github.com/abewley/sort)
