@@ -11,7 +11,7 @@
 3. Создать папку ouput (там будет результат).
 4. Загрузить [веса](https://www.dropbox.com/s/99mm7olr1ohtjbq/yolov3.weights?dl=0) и поместить их в папку parameters.
 5. Запустить программу : 
-```bash
+``` cmd 
 python main.py --input input\Example.mp4 --output output\Example_CarDetection.mp4 --yolo parameters
 ```
 
